@@ -88,7 +88,7 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 # Import Demo Content
 
-Before importing demo content, Please make sure the **${var.theme-name}** theme and **${var.theme-name} Toolkit** plugin is already activated.
+Before importing demo content, Please make sure the **${var.theme-name}** theme and **Envirra Extensions** plugin is already activated.
 
 0. Install plugin for importing demo content by go to menu `Appearance > Install Plugins` and click **Install** and **Activate** of the plugin **One Click Demo Import**.
 0. Go to menu `Appearance > Import Demo Data`.
