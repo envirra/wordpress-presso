@@ -59,4 +59,4 @@ Since **${var.theme-name}** 4.x has newly architecture to support future of maga
 * Theme options
 * Extra options provided by theme
 
-By the way, We still support **${var.theme-name}** 3.x for Wordpress compatibility and security issues until December 31, 2021. If an update for **${var.theme-name}** 3.x is available, It will be included in the full package zip file (Please download All files from ThemeForest download page and the updated theme file will be located inside the zip file).
+Anyway, We still support **${var.theme-name}** 3.x for Wordpress compatibility and security issues until December 31, 2021. If an update for **${var.theme-name}** 3.x is available, It will be included in the full package zip file (Please download All files from ThemeForest download page and the updated theme file will be located inside the zip file).
