@@ -92,8 +92,8 @@ Before importing demo content, Please make sure the **${var.theme-name}** theme 
 
 0. Install plugin for importing demo content by go to menu `Appearance > Install Plugins` and click **Install** and **Activate** of the plugin **One Click Demo Import**.
 0. Go to menu `Appearance > Import Demo Data`.
-0. Click **Import** button of the demo you want to import. All demo content will be downloaded. Please note that some site configuration may be overridden by demo's configuration.
-0. If you see some messages about invalid post type, It's ok to ignore that.
+0. Click **Import** button of the demo you want to import. All demo content will be downloaded. Please note that some site configuration may be overridden by demo's configuration. **Do not interrupt it**.
+0. If you see some messages about **invalid post type**, It's ok to ignore that.
 0. If you see some messages about failed to import media, It's ok to ignore that. But if you need all demo images to be shown on your site, Please import again.
 0. Some blocks and widgets may have a difference from the demo site due to a limitation of importing.
 
